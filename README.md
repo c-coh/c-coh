@@ -1,13 +1,9 @@
 ### Hi there! 
-          (o_             (o_            (o_
-(o_  (o_  //\  (o_  (o_   //\  (o_  (o_  //\
-(/)_ (/)_ V_/_ (/)_ ( /)_ V_/_ (/)_ (/)_ V_/_  
-
                                
-
+   (o_  (o_  (o_  (o_ 
+.. (/)_ (/)_ (/)_ (/)_
 
 <!--
-**c-coh/c-coh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
