@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 
+          (o_             (o_            (o_
+(o_  (o_  //\  (o_  (o_   //\  (o_  (o_  //\
+(/)_ (/)_ V_/_ (/)_ ( /)_ V_/_ (/)_ (/)_ V_/_  
+
+                               
+
 
 <!--
 **c-coh/c-coh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
