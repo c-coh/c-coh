@@ -1,9 +1,5 @@
-### Hi there! 
+### Howdy! 🌱
                                
-   (o_  (o_  (o_  (o_ 
-   
-.. (/)_ (/)_ (/)_ (/)_
-
 <!--
 
 Here are some ideas to get you started:
